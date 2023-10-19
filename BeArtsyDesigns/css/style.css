@@ -1,0 +1,96 @@
+body {
+  background-color: lightpink;
+  margin: 0;
+}
+h1 {
+  font-family:Garamond;
+  color: purple;
+  font-size: 60px;
+  text-align:center;
+  padding: 70px;
+  background: lightblue;
+}
+h2 {
+  font-family:Garamond;
+  color: darkgreen;
+  font-size: 30px;
+  text-align:center;
+  background: orange;
+  padding: 20px;
+}
+h3 {
+  font-family:Garamond;
+  color: white;
+  font-size: 15px;
+  text-align:center;
+}
+  h4 {
+  font-family:Garamond;
+  color: darkgreen;
+  font-size: 30px;
+  text-align:center;
+}
+ p1 {
+ font-family:Garamond;
+ font-size: 25px;
+ text-align:center;
+ color: purple;
+}
+ p2 {
+ font-family:Garamond;
+ font-size: 30px;
+ font-style:Italics;
+ color: darkgreen;
+
+}
+ p3 {
+ font-family:Garamond;
+ font-size: 30px;
+ text-align:center;
+ color: white;
+}
+ content {
+  padding: 30px;
+}
+ p { 
+  text-align:center;
+  font-family:Garamond;
+  font-size: 30px;
+  color: purple;
+}
+ footer {
+ font-family:Garamond;
+ font-size: 18px;
+ text-align:center;
+ color: darkgreen;
+}
+ nav {
+  text-align:center;
+  font-style:horizontal;
+  padding: 40px;
+}
+ li {
+  float: center;
+}
+ li a {
+  list-style-type: none;
+  display: block;
+  color: black;
+  text-align:center;
+  padding: 14px 16px;
+  text-decoration: none; 
+  background: lightblue;
+  font-size:25px;
+}
+ li a:hover {
+  background: pink; 
+}
+ div {
+ text-align:center;
+}
+ center { 
+  text-align:center;
+  font-family:Verdana, Arial, sans-serif;
+  font-size: 20px;
+  color: purple;
+}
